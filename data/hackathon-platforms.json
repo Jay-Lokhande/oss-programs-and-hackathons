@@ -17,5 +17,10 @@
   {"name": "Kaggle", "url": "https://www.kaggle.com/competitions", "scope": "global", "notes": "ML/data competitions"},
   {"name": "Skillenza", "url": "https://skillenza.com/", "scope": "india", "notes": "India challenges and hackathons"},
   {"name": "TechGig", "url": "https://www.techgig.com/", "scope": "india", "notes": "India hiring hackathons"},
-  {"name": "CodeChef", "url": "https://www.codechef.com/", "scope": "global", "notes": "Long-form coding contests and hack drives"}
+  {"name": "CodeChef", "url": "https://www.codechef.com/", "scope": "global", "notes": "Long-form coding contests and hack drives"},
+  {"name": "itch.io Game Jams", "url": "https://itch.io/jams", "scope": "global", "notes": "Indie and game dev jams"},
+  {"name": "Hackathon.com", "url": "https://www.hackathon.com/", "scope": "global", "notes": "Hackathon aggregator"},
+  {"name": "HackQuest", "url": "https://www.hackquest.io/", "scope": "global", "notes": "Online hackathons (Web3 + general)"},
+  {"name": "DevNetwork", "url": "https://devnetwork.com/", "scope": "global", "notes": "Tech hackathon listings"},
+  {"name": "NASA Space Apps", "url": "https://www.spaceappschallenge.org/", "scope": "global", "notes": "Annual NASA global hackathon hub"}
 ]

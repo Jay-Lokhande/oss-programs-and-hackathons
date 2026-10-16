@@ -60,3 +60,11 @@ Most top universities list **merit / need-based aid** on their own `.edu` domain
 | Paid OSS summer programs | [CATALOG.md](CATALOG.md) |
 | Learn security (CTF, OWASP) | [hack-safe](https://github.com/Jay-Lokhande/hack-safe) |
 | AI student credits | [ai-catalog free tiers](https://github.com/Jay-Lokhande/ai-catalog/blob/main/resources/free-tiers.md) |
+| Cloud credits | [cloud-student](https://github.com/Jay-Lokhande/cloud-student) |
+| Coding & MOOCs | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) |
+| Open APIs for projects | [public-apis](https://github.com/Jay-Lokhande/public-apis) |
+| Design & accessibility | [design-for-devs](https://github.com/Jay-Lokhande/design-for-devs) |
+| Game dev | [game-dev-student](https://github.com/Jay-Lokhande/game-dev-student) |
+| Music & audio | [never-your-sounds](https://github.com/Jay-Lokhande/never-your-sounds) |
+| Makers & hardware | [maker-student](https://github.com/Jay-Lokhande/maker-student) |
+| All catalogs | [sister-repos.md](../resources/sister-repos.md) |

@@ -41,5 +41,9 @@
   {"name": "eSim Summer Internship", "slug": "esim-internship", "type": "internship", "paid": true, "url": "https://esim.fossee.in/"},
   {"name": "Google Solution Challenge", "slug": "google-solution-challenge", "type": "competition", "paid": "prizes", "url": "https://developers.google.com/community/gdsc-solution-challenge"},
   {"name": "Microsoft Imagine Cup", "slug": "microsoft-imagine-cup", "type": "competition", "paid": "prizes", "url": "https://imaginecup.microsoft.com/"},
-  {"name": "Amazon Build for the World", "slug": "amazon-build-for-world", "type": "competition", "paid": "varies", "url": "https://www.amazon.science/"}
+  {"name": "Amazon Build for the World", "slug": "amazon-build-for-world", "type": "competition", "paid": "varies", "url": "https://www.amazon.science/"},
+  {"name": "Tor Project", "slug": "tor-project", "type": "fellowship", "paid": "varies", "url": "https://www.torproject.org/about/jobs-internships-fellowships/"},
+  {"name": "Document Foundation", "slug": "document-foundation", "type": "volunteer", "paid": false, "url": "https://documentfoundation.org/get-help/volunteers/"},
+  {"name": "Open Robotics", "slug": "open-robotics", "type": "gsoc-org", "paid": "varies", "url": "https://www.openrobotics.org/"},
+  {"name": "Debian Outreach Project", "slug": "debian-outreach", "type": "mentorship", "paid": "varies", "url": "https://wiki.debian.org/OutreachyDebian"}
 ]

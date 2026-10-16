@@ -8,7 +8,7 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 **Calendar (ICS):** [resources/calendar.md](resources/calendar.md)
 
-**Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [public-apis](https://jay-lokhande.github.io/public-apis/) · [design-for-devs](https://jay-lokhande.github.io/design-for-devs/) · [cloud-student](https://jay-lokhande.github.io/cloud-student/) · [maker-student](https://jay-lokhande.github.io/maker-student/) · [game-dev-student](https://jay-lokhande.github.io/game-dev-student/) · [sound-student](https://jay-lokhande.github.io/sound-student/)
+**Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) · [public-apis](https://jay-lokhande.github.io/public-apis/) · [design-for-devs](https://jay-lokhande.github.io/design-for-devs/) · [cloud-student](https://jay-lokhande.github.io/cloud-student/) · [maker-student](https://jay-lokhande.github.io/maker-student/) · [game-dev-student](https://jay-lokhande.github.io/game-dev-student/) · [never-your-sounds](https://jay-lokhande.github.io/never-your-sounds/)
 
 ---
 
@@ -37,6 +37,10 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | FOSSASIA Internship | Paid when listed | [programs/fossasia-internship.md](programs/fossasia-internship.md) | [fossasia.org](https://fossasia.org/) |
 | LF Decentralized Trust (LFX) | ~$3k–$6.6k | [programs/lf-decentralized-trust-mentorship.md](programs/lf-decentralized-trust-mentorship.md) | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) |
 | Sovereign Tech Fund | Grants | [programs/sovereign-tech-fund.md](programs/sovereign-tech-fund.md) | [sovereign.tech](https://www.sovereign.tech/) |
+| Tor Project | Fellowships / jobs | — | [torproject.org/about/jobs-internships-fellowships](https://www.torproject.org/about/jobs-internships-fellowships/) |
+| Document Foundation | LibreOffice contributors | — | [documentfoundation.org/get-help/volunteers](https://documentfoundation.org/get-help/volunteers/) |
+| Open Robotics | ROS / GSoC org | — | [openrobotics.org](https://www.openrobotics.org/) |
+| Debian Outreach Project | Paid (when running) | — | [wiki.debian.org/OutreachyDebian](https://wiki.debian.org/OutreachyDebian) |
 
 ## Open-source programs — mentorship (stipend varies by cohort)
 
@@ -98,6 +102,15 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | India (NSP, INSPIRE, …) | [programs/scholarships.md](programs/scholarships.md) | National portals |
 | FOSS / security **build grants** | [build-grants](https://github.com/Jay-Lokhande/build-grants) | Sister repo (not tuition) |
 | Security learning (CTF, OWASP) | [hack-safe](https://github.com/Jay-Lokhande/hack-safe) | Sister repo |
+| AI tools & API credits | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) | Sister repo |
+| Coding practice & MOOCs | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) | Sister repo |
+| Cloud student credits | [cloud-student](https://github.com/Jay-Lokhande/cloud-student) | Sister repo |
+| Open data & APIs | [public-apis](https://github.com/Jay-Lokhande/public-apis) | Sister repo |
+| UI / Figma / a11y | [design-for-devs](https://github.com/Jay-Lokhande/design-for-devs) | Sister repo |
+| Game engines & jams | [game-dev-student](https://github.com/Jay-Lokhande/game-dev-student) | Sister repo |
+| Music / DAWs / game audio | [never-your-sounds](https://github.com/Jay-Lokhande/never-your-sounds) | Sister repo |
+| Hardware & makerspaces | [maker-student](https://github.com/Jay-Lokhande/maker-student) | Sister repo |
+| **All catalogs** | [resources/sister-repos.md](resources/sister-repos.md) | Full list + Pages |
 
 ---
 
@@ -126,6 +139,11 @@ Browse **current** events here (college hackathons change weekly).
 | Skillenza | India | [skillenza.com](https://skillenza.com/) | Challenges & hackathons |
 | TechGig | India | [techgig.com](https://www.techgig.com/) | Hiring hackathons |
 | CodeChef | Global | [codechef.com](https://www.codechef.com/) | Drives / long contests |
+| itch.io Game Jams | Global | [itch.io/jams](https://itch.io/jams) | Indie / game dev jams |
+| Hackathon.com | Global | [hackathon.com](https://www.hackathon.com/) | Aggregator |
+| HackQuest | Web3 + general | [hackquest.io](https://www.hackquest.io/) | Online |
+| DevNetwork | US / virtual | [devnetwork.com](https://devnetwork.com/) | Tech hackathons |
+| NASA Space Apps (hub) | Global | [spaceappschallenge.org](https://www.spaceappschallenge.org/) | Also under flagship |
 
 ## Hackathons — flagship & recurring
 
