@@ -45,3 +45,11 @@ See [when-to-apply.md](when-to-apply.md) so you do not miss short windows (Outre
 ## 8. Pick orgs deliberately
 
 See [find-organizations.md](find-organizations.md) for GSoC/LFX/Outreachy org browsers and contribution norms.
+
+## 9. Templates & FAQ
+
+- [choose-a-program.md](choose-a-program.md) — pick 2–3 targets  
+- [first-contribution.md](first-contribution.md) — before you apply  
+- [../templates/gsoc-proposal-outline.md](../templates/gsoc-proposal-outline.md)  
+- [../templates/outreachy-checklist.md](../templates/outreachy-checklist.md)  
+- [../FAQ.md](../FAQ.md)

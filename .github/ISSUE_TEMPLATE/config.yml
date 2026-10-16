@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Contributing guide
+    url: https://github.com/Jay-Lokhande/all-you-have-to-do-is-believe/blob/main/CONTRIBUTING.md
+    about: How to open a PR for this repo
