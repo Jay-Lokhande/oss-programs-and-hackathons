@@ -6,7 +6,7 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 > **Scams:** Fake GSoC/Outreachy/internship offers are common. Never pay to apply. → **[Scams & fake internships](resources/scams-and-fake-internships.md)** · [Quick checklist](resources/stay-safe.md)
 
-**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **AI tools catalog:** [all-the-ais](https://github.com/Jay-Lokhande/all-the-ais)
+**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **AI tools catalog:** [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog)
 
 ---
 
