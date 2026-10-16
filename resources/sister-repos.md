@@ -13,6 +13,7 @@ Same maintainer; start at the **hub** if you are not sure where to go.
 | **Cloud Student** | AWS/GCP/Azure student credits & free tiers | [cloud-student](https://github.com/Jay-Lokhande/cloud-student) | [Read](https://jay-lokhande.github.io/cloud-student/) |
 | **Maker Student** | Hardware, KiCad, makerspaces | [maker-student](https://github.com/Jay-Lokhande/maker-student) | [Read](https://jay-lokhande.github.io/maker-student/) |
 | **Game Dev Student** | Engines, jams, student game dev | [game-dev-student](https://github.com/Jay-Lokhande/game-dev-student) | [Read](https://jay-lokhande.github.io/game-dev-student/) |
+| **Sound Student** | DAWs, game audio, legal samples | [sound-student](https://github.com/Jay-Lokhande/sound-student) | [Read](https://jay-lokhande.github.io/sound-student/) |
 | **All The AIs** | AI tools & APIs | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) | [Read](https://jay-lokhande.github.io/ai-catalog/) |
 | **Code Platforms** | DSA, MOOCs, cloud IDEs | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) | [Read](https://jay-lokhande.github.io/coding-platforms/) |
 
