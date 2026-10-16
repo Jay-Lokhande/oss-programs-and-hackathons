@@ -1,6 +1,6 @@
 # All You Have To Do Is Believe
 
-A community guide to **open-source programs, paid internships, and hackathons** — GSoC, Summer of Bitcoin, Outreachy, SIH, MLH, Devfolio, and more.
+A community guide to **open-source programs, paid internships, and hackathons** — GSoC, Summer of Bitcoin, Outreachy, SIH, MLH, Devfolio, and more. You can [Navigation](NAVIGATION.md), find [Hub](https://jay-lokhande.github.io/student-dev-catalogs/) (all catalogs), and browse [Sister repos](resources/sister-repos.md).
 
 > **Disclaimer:** Dates and stipends change every year. Confirm on official sites. Open a PR to fix anything outdated.
 
