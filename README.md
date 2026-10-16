@@ -8,7 +8,7 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 **Navigation:** [NAVIGATION.md](NAVIGATION.md) · **Calendar (ICS):** [resources/calendar.md](resources/calendar.md)
 
-**Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
+**Hub:** [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) · **Sister repos:** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 

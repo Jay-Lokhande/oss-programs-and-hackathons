@@ -4,7 +4,8 @@ Where to go in this repo.
 
 | I want… | Go to |
 | --- | --- |
-| **All three sister catalogs** | [resources/sister-repos.md](resources/sister-repos.md) |
+| **Catalog hub** | [student-dev-catalogs](https://github.com/Jay-Lokhande/student-dev-catalogs) |
+| **All sister catalogs** | [resources/sister-repos.md](resources/sister-repos.md) |
 | **Which program fits me?** | [resources/choose-a-program.md](resources/choose-a-program.md) |
 | **Compare programs** | [resources/compare-programs.md](resources/compare-programs.md) |
 | **First open-source PR** | [resources/first-contribution.md](resources/first-contribution.md) |
