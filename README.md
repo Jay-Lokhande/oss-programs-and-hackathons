@@ -6,9 +6,9 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 > **Scams:** Fake GSoC/Outreachy/internship offers are common. Never pay to apply. → **[Scams & fake internships](resources/scams-and-fake-internships.md)** · [Quick checklist](resources/stay-safe.md)
 
-**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **Calendar (ICS):** [resources/calendar.md](resources/calendar.md) · **AI:** [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) · **Coding:** [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms)
+**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **Calendar (ICS):** [resources/calendar.md](resources/calendar.md)
 
-**GitHub Pages:** [jay-lokhande.github.io/oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) (after Pages enabled in repo Settings)
+**Sister repos (all 3 catalogs):** [resources/sister-repos.md](resources/sister-repos.md) · **Pages:** [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 

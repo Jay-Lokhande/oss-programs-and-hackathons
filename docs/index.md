@@ -6,6 +6,7 @@ Open-source **programs**, **hackathons**, **scholarships**, and **scam awareness
 
 - [Full program & hackathon tables](site/)
 - [Navigation hub](site/NAVIGATION.html)
+- [All three sister catalogs](site/resources/sister-repos.html)
 - [Subscribe to planning calendar](site/resources/calendar.html)
 - [Scholarships (global)](site/programs/scholarships.html)
 - [Scams & fake internships](site/resources/scams-and-fake-internships.html)
@@ -13,8 +14,13 @@ Open-source **programs**, **hackathons**, **scholarships**, and **scam awareness
 
 ## Sister repos
 
-- [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) — AI tools & models
-- [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) — LeetCode, IDEs, MOOCs
+| Catalog | Pages |
+| --- | --- |
+| **This repo** — OSS programs & hackathons | [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) |
+| **All The AIs** | [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) |
+| **Code Platforms** | [coding-platforms](https://jay-lokhande.github.io/coding-platforms/) |
+
+Full table (GitHub + Pages): [sister-repos on GitHub](https://github.com/Jay-Lokhande/oss-programs-and-hackathons/blob/main/resources/sister-repos.md)
 
 ## Contribute
 
