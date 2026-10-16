@@ -4,11 +4,12 @@ Open-source **programs**, **hackathons**, **scholarships**, and **scam awareness
 
 ## Browse
 
-- [Full program & hackathon tables (GitHub README)](../README.md)
-- [Navigation hub](../NAVIGATION.md)
-- [Subscribe to planning calendar](../resources/calendar.md)
-- [Scholarships (global)](../programs/scholarships.md)
-- [Scams & fake internships](../resources/scams-and-fake-internships.md)
+- [Full program & hackathon tables](site/README.html)
+- [Navigation hub](site/NAVIGATION.html)
+- [Subscribe to planning calendar](site/resources/calendar.html)
+- [Scholarships (global)](site/programs/scholarships.html)
+- [Scams & fake internships](site/resources/scams-and-fake-internships.html)
+- [Planning calendar (ICS)](site/data/deadlines.ics)
 
 ## Sister repos
 
@@ -17,4 +18,4 @@ Open-source **programs**, **hackathons**, **scholarships**, and **scam awareness
 
 ## Contribute
 
-[CONTRIBUTING.md](../CONTRIBUTING.md) on GitHub.
+[CONTRIBUTING.md](https://github.com/Jay-Lokhande/oss-programs-and-hackathons/blob/main/CONTRIBUTING.md) on GitHub.

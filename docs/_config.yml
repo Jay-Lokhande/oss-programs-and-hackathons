@@ -2,3 +2,8 @@ title: OSS Programs & Hackathons
 description: GSoC, Summer of Bitcoin, Outreachy, hackathons, scholarships
 theme: jekyll-theme-cayman
 markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
