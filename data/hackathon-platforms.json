@@ -1,0 +1,15 @@
+[
+  {"name": "Major League Hacking (MLH)", "url": "https://mlh.io/", "scope": "global", "notes": "Season schedule, Global Hack Week, collegiate hackathons"},
+  {"name": "Devfolio", "url": "https://devfolio.co/", "scope": "global", "notes": "Large hub for India + international student hackathons"},
+  {"name": "Devpost", "url": "https://devpost.com/hackathons", "scope": "global", "notes": "Corporate and online hackathons"},
+  {"name": "Hack2Skill", "url": "https://hack2skill.com/", "scope": "india", "notes": "Gov and company hackathons in India"},
+  {"name": "Unstop (Dare2Compete)", "url": "https://unstop.com/hackathons", "scope": "india", "notes": "Campus, case comps, hackathons"},
+  {"name": "HackerEarth", "url": "https://www.hackerearth.com/challenges/hackathon/", "scope": "global", "notes": "Hiring + sponsored hackathons"},
+  {"name": "DoraHacks", "url": "https://dorahacks.io/", "scope": "global", "notes": "Web3 and general hackathons"},
+  {"name": "ETHGlobal", "url": "https://ethglobal.com/", "scope": "global", "notes": "Ethereum / web3 hackathon series"},
+  {"name": "AngelHack", "url": "https://angelhack.com/", "scope": "global", "notes": "Global hackathon tours"},
+  {"name": "Hack Club", "url": "https://hackclub.com/", "scope": "global", "notes": "High school hackers, seasons and grants"},
+  {"name": "LabLab.ai", "url": "https://lablab.ai/", "scope": "global", "notes": "AI hackathons and bootcamps"},
+  {"name": "Taikai", "url": "https://taikai.network/", "scope": "global", "notes": "Open innovation hackathons"},
+  {"name": "Eventbrite / Luma", "url": "https://www.eventbrite.com/", "scope": "global", "notes": "Search local hackathon meetups"}
+]
