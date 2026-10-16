@@ -4,7 +4,7 @@ Open-source **programs**, **hackathons**, **scholarships**, and **scam awareness
 
 ## Browse
 
-- [Full program & hackathon tables](site/README.html)
+- [Full program & hackathon tables](site/)
 - [Navigation hub](site/NAVIGATION.html)
 - [Subscribe to planning calendar](site/resources/calendar.html)
 - [Scholarships (global)](site/programs/scholarships.html)
