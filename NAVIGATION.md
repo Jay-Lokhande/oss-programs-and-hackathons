@@ -24,5 +24,6 @@ Where to go in this repo.
 | Keep dates updated | [MAINTAINERS.md](MAINTAINERS.md) |
 | Contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |
 | **AI tools catalog (sister repo)** | [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) |
+| **Coding practice & IDEs (sister repo)** | [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms) |
 
 [← Back to README](README.md)
