@@ -2,6 +2,8 @@
 
 Programs are the door; **organizations** are who you actually work with.
 
+Full org browser notes: [../organizations/README.md](../organizations/README.md).
+
 ## Browse by program
 
 | Tool | What it covers |

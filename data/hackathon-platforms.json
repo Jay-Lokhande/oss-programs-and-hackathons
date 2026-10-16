@@ -1,15 +1,21 @@
 [
   {"name": "Major League Hacking (MLH)", "url": "https://mlh.io/", "scope": "global", "notes": "Season schedule, Global Hack Week, collegiate hackathons"},
-  {"name": "Devfolio", "url": "https://devfolio.co/", "scope": "global", "notes": "Large hub for India + international student hackathons"},
+  {"name": "Devfolio", "url": "https://devfolio.co/hackathons", "scope": "global", "notes": "Large hub for India + international student hackathons"},
   {"name": "Devpost", "url": "https://devpost.com/hackathons", "scope": "global", "notes": "Corporate and online hackathons"},
   {"name": "Hack2Skill", "url": "https://hack2skill.com/", "scope": "india", "notes": "Gov and company hackathons in India"},
   {"name": "Unstop (Dare2Compete)", "url": "https://unstop.com/hackathons", "scope": "india", "notes": "Campus, case comps, hackathons"},
   {"name": "HackerEarth", "url": "https://www.hackerearth.com/challenges/hackathon/", "scope": "global", "notes": "Hiring + sponsored hackathons"},
   {"name": "DoraHacks", "url": "https://dorahacks.io/", "scope": "global", "notes": "Web3 and general hackathons"},
-  {"name": "ETHGlobal", "url": "https://ethglobal.com/", "scope": "global", "notes": "Ethereum / web3 hackathon series"},
+  {"name": "ETHGlobal", "url": "https://ethglobal.com/events", "scope": "global", "notes": "Ethereum / web3 hackathon series"},
   {"name": "AngelHack", "url": "https://angelhack.com/", "scope": "global", "notes": "Global hackathon tours"},
   {"name": "Hack Club", "url": "https://hackclub.com/", "scope": "global", "notes": "High school hackers, seasons and grants"},
-  {"name": "LabLab.ai", "url": "https://lablab.ai/", "scope": "global", "notes": "AI hackathons and bootcamps"},
+  {"name": "LabLab.ai", "url": "https://lablab.ai/event", "scope": "global", "notes": "AI hackathons and bootcamps"},
   {"name": "Taikai", "url": "https://taikai.network/", "scope": "global", "notes": "Open innovation hackathons"},
-  {"name": "Eventbrite / Luma", "url": "https://www.eventbrite.com/", "scope": "global", "notes": "Search local hackathon meetups"}
+  {"name": "Eventbrite", "url": "https://www.eventbrite.com/", "scope": "global", "notes": "Local hackathon listings"},
+  {"name": "Luma", "url": "https://lu.ma/", "scope": "global", "notes": "Tech events and hack sprints"},
+  {"name": "Meetup", "url": "https://www.meetup.com/", "scope": "global", "notes": "Search hackathon meetups by city"},
+  {"name": "Kaggle", "url": "https://www.kaggle.com/competitions", "scope": "global", "notes": "ML/data competitions"},
+  {"name": "Skillenza", "url": "https://skillenza.com/", "scope": "india", "notes": "India challenges and hackathons"},
+  {"name": "TechGig", "url": "https://www.techgig.com/", "scope": "india", "notes": "India hiring hackathons"},
+  {"name": "CodeChef", "url": "https://www.codechef.com/", "scope": "global", "notes": "Long-form coding contests and hack drives"}
 ]

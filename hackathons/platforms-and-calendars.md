@@ -14,6 +14,11 @@ Use these to browse **all current** hackathons. Bookmark 2–3 for your region.
 | **AngelHack** | [angelhack.com](https://angelhack.com/) | Tour-style events |
 | **Hack Club** | [hackclub.com](https://hackclub.com/) | High school + grants |
 | **LabLab.ai** | [lablab.ai/event](https://lablab.ai/event) | AI-themed sprints |
+| **Taikai** | [taikai.network](https://taikai.network/) | Open innovation |
+| **Eventbrite** | [eventbrite.com](https://www.eventbrite.com/) | Local listings |
+| **Luma** | [lu.ma](https://lu.ma/) | Tech meetups & sprints |
+| **Meetup** | [meetup.com](https://www.meetup.com/) | City hackathon groups |
+| **Kaggle** | [kaggle.com/competitions](https://www.kaggle.com/competitions) | ML/data competitions |
 
 ## India-heavy
 
@@ -22,6 +27,9 @@ Use these to browse **all current** hackathons. Bookmark 2–3 for your region.
 | **Devfolio** | [devfolio.co/hackathons](https://devfolio.co/hackathons) | Most student hackathons list here |
 | **Unstop** | [unstop.com/hackathons](https://unstop.com/hackathons) | Campus + national comps |
 | **Hack2Skill** | [hack2skill.com](https://hack2skill.com/) | SIH-style and gov/enterprise |
+| **Skillenza** | [skillenza.com](https://skillenza.com/) | Challenges & hackathons |
+| **TechGig** | [techgig.com](https://www.techgig.com/) | Hiring hackathons |
+| **CodeChef** | [codechef.com](https://www.codechef.com/) | Long contests / hack drives |
 
 ## Community trackers (third-party)
 

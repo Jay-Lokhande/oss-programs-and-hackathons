@@ -20,6 +20,7 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | GSoC proposal template | [templates/gsoc-proposal-outline.md](templates/gsoc-proposal-outline.md) |
 | Outreachy checklist | [templates/outreachy-checklist.md](templates/outreachy-checklist.md) |
 | JSON indexes | [data/programs.json](data/programs.json) · [data/hackathon-platforms.json](data/hackathon-platforms.json) |
+| **Target organizations** | [organizations/README.md](organizations/README.md) |
 | Stay safe | [resources/stay-safe.md](resources/stay-safe.md) |
 | Keep dates updated | [MAINTAINERS.md](MAINTAINERS.md) |
 
@@ -47,6 +48,9 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | Wikimedia Tech Internships | Paid | [programs/wikimedia-internships.md](programs/wikimedia-internships.md) | [MediaWiki internships](https://www.mediawiki.org/wiki/Wikimedia_technical_internships) |
 | Red Hat Open Source Internship | Paid | [programs/red-hat-internship.md](programs/red-hat-internship.md) | [redhat.com/en/jobs/internships](https://www.redhat.com/en/jobs/internships) |
 | eSim (FOSSEE) Internship | Paid | [programs/esim-internship.md](programs/esim-internship.md) | [esim.fossee.in](https://esim.fossee.in/) |
+| FOSSASIA Internship | Paid when listed | [programs/fossasia-internship.md](programs/fossasia-internship.md) | [fossasia.org](https://fossasia.org/) |
+| LF Decentralized Trust (LFX) | ~$3k–$6.6k | [programs/lf-decentralized-trust-mentorship.md](programs/lf-decentralized-trust-mentorship.md) | [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/) |
+| Sovereign Tech Fund | Grants | [programs/sovereign-tech-fund.md](programs/sovereign-tech-fund.md) | [sovereign.tech](https://www.sovereign.tech/) |
 
 ## Open-source programs — mentorship (stipend varies by cohort)
 
@@ -58,13 +62,16 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | Jenkins Project | [programs/jenkins-mentorship.md](programs/jenkins-mentorship.md) | [jenkins.io](https://www.jenkins.io/) |
 | CHAOSS | [programs/chaoss-mentorship.md](programs/chaoss-mentorship.md) | [chaoss.community](https://chaoss.community/) |
 | RISC-V | [programs/riscv-mentorship.md](programs/riscv-mentorship.md) | [riscv.org/about/mentorship](https://riscv.org/about/mentorship/) |
+| Kubernetes Release Shadow | Unpaid (learning) | [programs/kubernetes-release-shadow.md](programs/kubernetes-release-shadow.md) | [k8s.dev](https://www.k8s.dev/) |
 
 ## GSoC organization hubs
 
 | Program | Guide | Official |
 | --- | --- | --- |
 | Summer of Haskell | [programs/summer-of-haskell.md](programs/summer-of-haskell.md) | [summer.haskell.org](https://summer.haskell.org/) |
-| All GSoC orgs (current year) | [resources/find-organizations.md](resources/find-organizations.md) | [GSoC organizations](https://summerofcode.withgoogle.com/programs/2026/organizations) |
+| Julia Seasons of Contributions | [programs/julia-seasons-of-contributions.md](programs/julia-seasons-of-contributions.md) | [julialang.org](https://julialang.org/) |
+| GNOME newcomers | [programs/gnome-newcomers.md](programs/gnome-newcomers.md) | [welcome.gnome.org](https://welcome.gnome.org/) |
+| All GSoC orgs (current year) | [organizations/README.md](organizations/README.md) | [GSoC organizations](https://summerofcode.withgoogle.com/programs/2026/organizations) |
 
 ## Community seasons & challenges (usually unpaid)
 
@@ -76,6 +83,9 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | 24 Pull Requests | Badges | [programs/24-pull-requests.md](programs/24-pull-requests.md) | [24pullrequests.com](https://24pullrequests.com/) |
 | Hacktoberfest | Badges / swag | [programs/hacktoberfest.md](programs/hacktoberfest.md) | [hacktoberfest.com](https://hacktoberfest.com/) |
 | FOSSASIA Codeheat | Prizes | [programs/fossasia-codeheat.md](programs/fossasia-codeheat.md) | [codeheat.org](https://codeheat.org/) |
+| Djangonaut Space | Free mentoring | [programs/djangonaut-space.md](programs/djangonaut-space.md) | [djangonaut.space](https://djangonaut.space/) |
+| Nexus Spring of Code (NSoC) | Certificates | [programs/nexus-spring-of-code.md](programs/nexus-spring-of-code.md) | [nsoc.netlify.app](https://nsoc.netlify.app/) |
+| OpenSourceNest Sprint | Certificates | [programs/opensourcenest-sprint.md](programs/opensourcenest-sprint.md) | [opensourcenest.org](https://opensourcenest.org/) |
 
 ## Student build competitions (prizes, not stipends)
 
@@ -113,7 +123,13 @@ Browse **current** events here (college hackathons change weekly).
 | Hack Club | Global | [hackclub.com](https://hackclub.com/) | High school |
 | LabLab.ai | Global | [lablab.ai/event](https://lablab.ai/event) | AI hackathons |
 | Taikai | Global | [taikai.network](https://taikai.network/) | Open innovation |
-| Eventbrite / Luma | Global | [eventbrite.com](https://www.eventbrite.com/) | Local search |
+| Eventbrite | Global | [eventbrite.com](https://www.eventbrite.com/) | Local search |
+| Luma | Global | [lu.ma](https://lu.ma/) | Tech meetups & hack sprints |
+| Meetup | Global | [meetup.com](https://www.meetup.com/) | Search “hackathon” near you |
+| Kaggle | Global | [kaggle.com/competitions](https://www.kaggle.com/competitions) | ML competitions (not classic hacks) |
+| Skillenza | India | [skillenza.com](https://skillenza.com/) | Challenges & hackathons |
+| TechGig | India | [techgig.com](https://www.techgig.com/) | Hiring hackathons |
+| CodeChef | Global | [codechef.com](https://www.codechef.com/) | Drives / long contests |
 
 ## Hackathons — flagship & recurring
 
