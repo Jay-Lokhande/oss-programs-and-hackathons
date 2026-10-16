@@ -6,9 +6,9 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 > **Scams:** Fake GSoC/Outreachy/internship offers are common. Never pay to apply. → **[Scams & fake internships](resources/scams-and-fake-internships.md)** · [Quick checklist](resources/stay-safe.md)
 
-**Navigation:** [NAVIGATION](NAVIGATION.md) · **Calendar (ICS):** [resources/calendar.md](resources/calendar.md) · **Hub:** [Hub](https://jay-lokhande.github.io/student-dev-catalogs/)
+**Calendar (ICS):** [resources/calendar.md](resources/calendar.md)
 
-**Sister repos:** [Sister repos](resources/sister-repos.md) · **Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
+**Pages:** [student-dev-catalogs](https://jay-lokhande.github.io/student-dev-catalogs/) · [oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) · [build-grants](https://jay-lokhande.github.io/build-grants/) · [hack-safe](https://jay-lokhande.github.io/hack-safe/) · [ai-catalog](https://jay-lokhande.github.io/ai-catalog/) · [coding-platforms](https://jay-lokhande.github.io/coding-platforms/)
 
 ---
 
