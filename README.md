@@ -96,6 +96,8 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | Tech scholarships (Google, Microsoft, AWS, …) | [programs/scholarships.md](programs/scholarships.md) | Verify official eligibility |
 | Study abroad (Fulbright, Chevening, DAAD, …) | [programs/scholarships.md](programs/scholarships.md) | Government programs |
 | India (NSP, INSPIRE, …) | [programs/scholarships.md](programs/scholarships.md) | National portals |
+| FOSS / security **build grants** | [build-grants](https://github.com/Jay-Lokhande/build-grants) | Sister repo (not tuition) |
+| Security learning (CTF, OWASP) | [hack-safe](https://github.com/Jay-Lokhande/hack-safe) | Sister repo |
 
 ---
 

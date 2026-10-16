@@ -56,5 +56,7 @@ Most top universities list **merit / need-based aid** on their own `.edu` domain
 
 | Resource | Link |
 | --- | --- |
+| **FOSS & security build grants** (NLnet, Mozilla, GitHub Secure OSS) | [build-grants](https://github.com/Jay-Lokhande/build-grants) |
 | Paid OSS summer programs | [CATALOG.md](CATALOG.md) |
+| Learn security (CTF, OWASP) | [hack-safe](https://github.com/Jay-Lokhande/hack-safe) |
 | AI student credits | [ai-catalog free tiers](https://github.com/Jay-Lokhande/ai-catalog/blob/main/resources/free-tiers.md) |
