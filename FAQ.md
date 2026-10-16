@@ -47,7 +47,7 @@ Mentorships are **fixed-term stipends**, not permanent employment. Igalia Coding
 Keep contributing to the same org, ask mentors for feedback, reapply next cycle. Many acceptances are second-try.
 
 **Where are scams?**  
-See [resources/stay-safe.md](resources/stay-safe.md). Never pay to “guarantee” selection.
+See [resources/scams-and-fake-internships.md](resources/scams-and-fake-internships.md). Fake GSoC portals, paid “guaranteed selection”, Telegram recruiters, and crypto “registration fees” are common. Real programs **never** charge you to apply.
 
 ## This repo
 

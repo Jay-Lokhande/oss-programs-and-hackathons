@@ -1,22 +1,27 @@
-# Stay safe (scams & fake opportunities)
+# Stay safe (quick checklist)
 
-## Red flags
+Full guide: **[scams-and-fake-internships.md](scams-and-fake-internships.md)**
 
-- **Pay to apply** or “guaranteed selection” for GSoC, Outreachy, or SoB
-- DMs from random Telegram/WhatsApp “coordinators” not listed on official sites
-- Repos that copy this guide but ask for wallet keys or “registration crypto”
-- Hackathons with no official Devfolio/Devpost/MLH/Unstop page linked from a **verified** org account
+## Stop if you see
 
-## Official channels
+- **Pay to apply** or “guaranteed GSoC / Outreachy / SoB selection”
+- **Crypto wallet connect** or “registration fee” in USDT/BTC to *receive* a stipend
+- **Telegram/WhatsApp-only** “coordinators” not listed on the official program site
+- **Fake domains** (`gsoc-apply.com`, etc.) — use bookmarks from this repo’s program tables
+- Hackathons with **no** Devfolio / Devpost / MLH / Unstop / `.edu` / gov link
+- Forms asking for **Aadhaar, OTP, bank PIN**, or upfront “prize tax”
 
-- **Summer of Bitcoin** — [guide.summerofbitcoin.org](https://guide.summerofbitcoin.org/)
-- **GSoC** — [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) only
-- **Outreachy** — [outreachy.org](https://www.outreachy.org/)
-- **SSoC** — only [socialsummerofcode@gmail.com](mailto:socialsummerofcode@gmail.com) per their security notice
+## Official channels only
 
-## Hackathons
+| Program | Site |
+| --- | --- |
+| Summer of Bitcoin | [guide.summerofbitcoin.org](https://guide.summerofbitcoin.org/) |
+| GSoC | [summerofcode.withgoogle.com](https://summerofcode.withgoogle.com/) |
+| Outreachy | [outreachy.org](https://www.outreachy.org/) |
+| SSoC email | **socialsummerofcode@gmail.com** only (per their notice) |
 
-- Cross-check the event URL with the **university or company** social account
-- Never share Aadhaar, passport, or bank details in unofficial Google Forms
+## Report
 
-Report fraud to the **real** program admins and your campus cyber cell if money is involved.
+- Real program admins (impersonation matters to them)
+- India: [cybercrime.gov.in](https://cybercrime.gov.in/)
+- Help others: contribute patterns to [scams-and-fake-internships.md](scams-and-fake-internships.md)

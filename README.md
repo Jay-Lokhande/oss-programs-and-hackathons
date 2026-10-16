@@ -4,6 +4,8 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 > **Disclaimer:** Dates and stipends change every year. Confirm on official sites. Open a PR to fix anything outdated.
 
+> **Scams:** Fake GSoC/Outreachy/internship offers are common. Never pay to apply. → **[Scams & fake internships](resources/scams-and-fake-internships.md)** · [Quick checklist](resources/stay-safe.md)
+
 **Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)**
 
 ---

@@ -19,7 +19,8 @@ Where to go in this repo.
 | JSON indexes | [data/programs.json](data/programs.json) · [data/hackathon-platforms.json](data/hackathon-platforms.json) |
 | **Target organizations** | [organizations/README.md](organizations/README.md) |
 | What we don’t list here | [docs/WHATS-NOT-LISTED.md](docs/WHATS-NOT-LISTED.md) |
-| Stay safe | [resources/stay-safe.md](resources/stay-safe.md) |
+| **Scams & fake internships** | [resources/scams-and-fake-internships.md](resources/scams-and-fake-internships.md) |
+| Stay safe (short) | [resources/stay-safe.md](resources/stay-safe.md) |
 | Keep dates updated | [MAINTAINERS.md](MAINTAINERS.md) |
 | Contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |
 

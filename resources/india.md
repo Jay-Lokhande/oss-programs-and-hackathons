@@ -48,3 +48,7 @@ More: [../hackathons/india.md](../hackathons/india.md)
 3. **Parallel:** C4GT or FOSSEE if gov-tech or science OSS fits your major  
 
 See [choose-a-program.md](choose-a-program.md).
+
+## Scams
+
+Fake “GSoC/GSSoC placement” consultancies and paid SIH “guaranteed” teams appear every season. Read [scams-and-fake-internships.md](scams-and-fake-internships.md) and report on [cybercrime.gov.in](https://cybercrime.gov.in/) if you lose money.

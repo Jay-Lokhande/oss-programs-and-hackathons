@@ -19,6 +19,12 @@ Thank you for helping students find programs and hackathons.
 - Guides: [resources/](resources/), [FAQ.md](FAQ.md)
 - Templates: [templates/](templates/)
 
+## Scam patterns
+
+- Add tactics to [resources/scams-and-fake-internships.md](resources/scams-and-fake-internships.md)
+- Use issue template **Report scam pattern** — document **how the scam works**, not private individuals
+- Do not publish phone numbers or unverified accusations against named people
+
 ## Pull request checklist
 
 - [ ] Official URL included
