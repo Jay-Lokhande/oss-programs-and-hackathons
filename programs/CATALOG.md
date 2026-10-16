@@ -66,6 +66,12 @@ Machine-readable: [../data/programs.json](../data/programs.json)
 | Hacktoberfest | [hacktoberfest.md](hacktoberfest.md) |
 | FOSSASIA Codeheat | [fossasia-codeheat.md](fossasia-codeheat.md) |
 
+## Scholarships & fellowships (non-OSS)
+
+| Program | Page |
+| --- | --- |
+| Global & India scholarships index | [scholarships.md](scholarships.md) |
+
 ## Student build competitions (prizes, not stipends)
 
 | Program | Page |

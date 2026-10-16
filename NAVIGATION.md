@@ -11,7 +11,11 @@ Where to go in this repo.
 | **FAQ** | [FAQ.md](FAQ.md) |
 | Program details (long form) | [programs/CATALOG.md](programs/CATALOG.md) |
 | All program & hackathon tables | [README.md](README.md) |
+| GitHub Pages site | [jay-lokhande.github.io/oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) |
+| API / AI free tiers (sister repo) | [ai-catalog free-tiers](https://github.com/Jay-Lokhande/ai-catalog/blob/main/resources/free-tiers.md) |
 | Hackathon details | [hackathons/README.md](hackathons/README.md) |
+| **Calendar (ICS + JSON)** | [resources/calendar.md](resources/calendar.md) |
+| Scholarships (global) | [programs/scholarships.md](programs/scholarships.md) |
 | When to apply | [resources/when-to-apply.md](resources/when-to-apply.md) |
 | How to apply | [resources/how-to-apply.md](resources/how-to-apply.md) |
 | GSoC proposal template | [templates/gsoc-proposal-outline.md](templates/gsoc-proposal-outline.md) |

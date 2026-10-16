@@ -18,6 +18,15 @@ Use this **once per year** (or when official sites announce dates). Update progr
 
 Live aggregator: [osprograms.dev](https://www.osprograms.dev/)
 
+## Calendar files
+
+When official dates are announced, update **both**:
+
+- [data/deadlines.json](../data/deadlines.json)
+- [data/deadlines.ics](../data/deadlines.ics)
+
+Link to announcement in PR description.
+
 ## PR review tips
 
 - Require a link to an **official** announcement for date/stipend changes

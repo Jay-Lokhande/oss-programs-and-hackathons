@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "timezone": "UTC",
+  "disclaimer": "Approximate planning dates only. Confirm on official program sites and osprograms.dev before applying.",
+  "source_hint": "Update after each official announcement; see MAINTAINERS.md",
+  "events": [
+    {"id": "esoc-info", "program": "European Summer of Code", "label": "Info event (typical)", "month": 1, "day_start": 25, "day_end": 31, "url": "https://www.esoc.dev/"},
+    {"id": "sob-apps", "program": "Summer of Bitcoin", "label": "Applications (typical)", "month": 2, "day_start": 1, "day_end": 15, "url": "https://www.summerofbitcoin.org/"},
+    {"id": "gsoc-apps", "program": "Google Summer of Code", "label": "Contributor applications (typical)", "month": 3, "day_start": 16, "day_end": 31, "url": "https://summerofcode.withgoogle.com/"},
+    {"id": "gssoc-reg", "program": "GirlScript Summer of Code", "label": "Registration (typical)", "month": 3, "day_start": 20, "day_end": 31, "url": "https://gssoc.girlscript.tech/"},
+    {"id": "esoc-b2", "program": "European Summer of Code", "label": "Batch 2 apps (typical)", "month": 4, "day_start": 1, "day_end": 30, "url": "https://www.esoc.dev/"},
+    {"id": "c4gt", "program": "Code for GovTech", "label": "Applications (some cycles)", "month": 4, "day_start": 1, "day_end": 30, "url": "https://www.codeforgovtech.in/"},
+    {"id": "outreachy-may-init", "program": "Outreachy", "label": "May cohort initial apps (typical)", "month": 2, "day_start": 6, "day_end": 20, "url": "https://www.outreachy.org/"},
+    {"id": "lfx-summer", "program": "LFX Mentorship", "label": "Summer term apps (typical)", "month": 7, "day_start": 1, "day_end": 31, "url": "https://mentorship.lfx.linuxfoundation.org/"},
+    {"id": "mlh-fellowship-fall", "program": "MLH Fellowship", "label": "Fall batch apps (typical)", "month": 6, "day_start": 15, "day_end": 30, "url": "https://fellowship.mlh.io/"},
+    {"id": "outreachy-dec-init", "program": "Outreachy", "label": "Dec cohort initial apps (typical)", "month": 8, "day_start": 1, "day_end": 20, "url": "https://www.outreachy.org/"},
+    {"id": "hacktoberfest", "program": "Hacktoberfest", "label": "Event month", "month": 10, "day_start": 1, "day_end": 31, "url": "https://hacktoberfest.com/"},
+    {"id": "24pr", "program": "24 Pull Requests", "label": "Event month", "month": 12, "day_start": 1, "day_end": 31, "url": "https://24pullrequests.com/"},
+    {"id": "season-kde", "program": "Season of KDE", "label": "Applications (typical)", "month": 12, "day_start": 1, "day_end": 31, "url": "https://season.kde.org/"}
+  ]
+}

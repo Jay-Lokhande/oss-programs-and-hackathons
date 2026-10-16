@@ -6,7 +6,9 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 
 > **Scams:** Fake GSoC/Outreachy/internship offers are common. Never pay to apply. → **[Scams & fake internships](resources/scams-and-fake-internships.md)** · [Quick checklist](resources/stay-safe.md)
 
-**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **AI tools catalog:** [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) · **Coding platforms:** [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms)
+**Navigation:** guides, templates, catalogs, and indexes → **[NAVIGATION.md](NAVIGATION.md)** · **Calendar (ICS):** [resources/calendar.md](resources/calendar.md) · **AI:** [ai-catalog](https://github.com/Jay-Lokhande/ai-catalog) · **Coding:** [coding-platforms](https://github.com/Jay-Lokhande/coding-platforms)
+
+**GitHub Pages:** [jay-lokhande.github.io/oss-programs-and-hackathons](https://jay-lokhande.github.io/oss-programs-and-hackathons/) (after Pages enabled in repo Settings)
 
 ---
 
@@ -86,6 +88,14 @@ A community guide to **open-source programs, paid internships, and hackathons** 
 | Google Code-in | Pre-university; ended 2020 |
 | Rails Girls Summer of Code | Ended 2019 |
 | Outreach Program for Women | Merged into Outreachy |
+
+## Scholarships & fellowships (global, non-OSS)
+
+| Region / type | Guide | Notes |
+| --- | --- | --- |
+| Tech scholarships (Google, Microsoft, AWS, …) | [programs/scholarships.md](programs/scholarships.md) | Verify official eligibility |
+| Study abroad (Fulbright, Chevening, DAAD, …) | [programs/scholarships.md](programs/scholarships.md) | Government programs |
+| India (NSP, INSPIRE, …) | [programs/scholarships.md](programs/scholarships.md) | National portals |
 
 ---
 

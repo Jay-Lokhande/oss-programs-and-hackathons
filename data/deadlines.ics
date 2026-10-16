@@ -1,0 +1,43 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Jay-Lokhande//oss-programs-deadlines//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OSS Program Planning Dates (approximate)
+X-WR-CALDESC:Confirm on official sites. Not legal deadlines.
+BEGIN:VEVENT
+UID:esoc-info@oss-programs
+SUMMARY:ESoC — info event window (typical late Jan)
+DTSTART;VALUE=DATE:20270125
+DTEND;VALUE=DATE:20270201
+URL:https://www.esoc.dev/
+END:VEVENT
+BEGIN:VEVENT
+UID:sob-apps@oss-programs
+SUMMARY:Summer of Bitcoin — applications (typical Feb)
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270216
+URL:https://www.summerofbitcoin.org/
+END:VEVENT
+BEGIN:VEVENT
+UID:gsoc-apps@oss-programs
+SUMMARY:GSoC — contributor applications (typical mid–late Mar)
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270401
+URL:https://summerofcode.withgoogle.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:hacktoberfest@oss-programs
+SUMMARY:Hacktoberfest (October)
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261101
+URL:https://hacktoberfest.com/
+END:VEVENT
+BEGIN:VEVENT
+UID:24pr@oss-programs
+SUMMARY:24 Pull Requests (December)
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20270101
+URL:https://24pullrequests.com/
+END:VEVENT
+END:VCALENDAR
