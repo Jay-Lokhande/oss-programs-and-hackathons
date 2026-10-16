@@ -23,5 +23,6 @@ Where to go in this repo.
 | Stay safe (short) | [resources/stay-safe.md](resources/stay-safe.md) |
 | Keep dates updated | [MAINTAINERS.md](MAINTAINERS.md) |
 | Contribute | [CONTRIBUTING.md](CONTRIBUTING.md) |
+| **AI tools catalog (sister repo)** | [all-the-ais](https://github.com/Jay-Lokhande/all-the-ais) |
 
 [← Back to README](README.md)
